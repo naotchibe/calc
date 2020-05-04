@@ -1,23 +1,10 @@
 <resources>
-    <string name="app_name">Calculator</string>
-    <string name="one">1</string>
-    <string name="two">2</string>
-    <string name="three">3</string>
-    <string name="four">4</string>
-    <string name="five">5</string>
-    <string name="six">6</string>
-    <string name="seven">7</string>
-    <string name="eight">8</string>
-    <string name="nine">9</string>
-    <string name="zero">0</string>
-    <string name="clear">AC</string>
-    <string name="delete">delete</string>
-    <string name="result">=</string>
-    <string name="plus">+</string>
-    <string name="minus">-</string>
-    <string name="dot">.</string>
-    <string name="divide">/</string>
-    <string name="multiply">*</string>
-    <string name="parentheses">()</string>
-    <string name="percent">%</string>
+    <string name="app_name">MiniShop</string>
+    <string name="show">Show Checked Items</string>
+    <string name="checked">Checked: %d</string>
+    <string name="number">Number: %d</string>
+    <string name="name">Name: %s</string>
+    <string name="price">Price: %d USD</string>
+    <string name="goods">Goods</string>
+    <string name="basket">Basket</string>
 </resources>
